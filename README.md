@@ -1,13 +1,13 @@
 # MongoDBDocker
 
-Run 01_build.sh
+* Run 01_build.sh
 
-Run 02_start.sh
+* Run 02_start.sh
 
-In the container run mongod
+* In the container run mongod
 
-Open new terminal
+* Open new terminal
 
-Run 03_attach_bash.sh
+* Run 03_attach_bash.sh
 
-In the container run mongo
+* In the container run mongo
